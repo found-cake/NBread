@@ -5,4 +5,4 @@ N빵 디스코드봇
 - nbread
 
 ## 실행 이미지
-![image](https://github.com/found-cake/NBread/assets/90592152/5122ac0e-294b-47bb-8041-0ba944004080)
+![image](https://github.com/found-cake/NBread/assets/90592152/7ac3dfc6-d29e-426f-a251-f562c575e8e8)
